@@ -1,7 +1,7 @@
 <h2>itch.io官网入口，国外独立游戏网站平台|网页|打不开</h2>
 <p>Itch.io 是一个专注于独立游戏开发者的平台，由程序员 Leaf Corcoran 于2013年创立。它为独立游戏开发者提供了一个简单高效的上传系统，允许开发者免费注册账号并直接上传游戏文件，无需等待平台审核。这使得开发者可以在短时间内快速发布自己的作品，进行市场测试或收集用户反馈。Itch.io 不仅支持游戏的上传和销售，还提供游戏开发所需的资源，如音乐、图形、代码等。此外，平台还定期举办游戏制作活动（Game Jams）和促销活动，增加平台的活跃度。</p>
 <p><strong>一键访问：</strong><a href="http://itchio.2rdh.com/" target="_blank"><strong>itch.io最新网址</strong></a></p>
-<p><strong>一键访问：</strong><a href="[https://wangpanziyuan.pages.dev/](https://appxiazai.pages.dev/)" target="_blank"><strong>网友汇总的游戏网站大全</strong></a></p>
+<p><strong>一键访问：</strong><a href="https://appxiazai.pages.dev/" target="_blank"><strong>网友汇总的游戏网站大全</strong></a></p>
 <p><strong>一键访问：</strong><a href="http://ip.harmonylink.net/share/e82025" target="_blank"><strong>海外代理网络·可看蓝光4K影视</strong></a></p>
 <h3><strong>功能特点</strong></h3>
 <p><strong>游戏上传与销售</strong> Itch.io 提供了一个简单高效的上传系统，开发者可以免费注册账号并直接上传游戏文件，无需等待平台审核。这种免审核机制使得开发者可以在短时间内快速发布自己的作品，进行市场测试或收集用户反馈。此外，Itch.io 支持多种游戏格式，包括 Windows、macOS、Linux 版本的可执行文件，HTML5 网页游戏，甚至是桌游规则 PDF 和游戏开发资源包。</p>
